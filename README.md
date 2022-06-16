@@ -13,20 +13,6 @@ Joined Github **4** years ago.
 - 🛠 &nbsp; I’m currently working with  React, Symfony and NodeJS, ect.
 - 📫 &nbsp; How to reach me:  <a href="https://linkedin.com/in/jaydeepyadav"><img alt="Linkedin" width="80px" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<!--
-**SylvainBoudacher/SylvainBoudacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## Language and Tools:
 
@@ -48,16 +34,14 @@ Here are some ideas to get you started:
 <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylvainBoudacher&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> MacOS Monterey</li>
-	    <li><b>Laptop: </b> Macbook Pro M1 Pro 2021</li>
-  	    <li><b>Browser: </b> Brave and Firefox for the front dev tools</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Daily.dev, Medium and Twitter.</li>
-	    <br />
-	</ul>	
-</details>
+## ⚙️ Things I use to get stuff don
+ 
+ - OS:</b> MacOS Monterey
+ - Laptop: </b> Macbook Pro M1 Pro 2021
+ - Browser: </b> Brave and Firefox for the front dev tools
+ - Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)
+ - Code Editor:</b> VSCode - The best editor out there.
+ - To Stay Updated:</b> Daily.dev, Medium and Twitter.
+	   
+	
+
