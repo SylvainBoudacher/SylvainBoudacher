@@ -1,12 +1,18 @@
-![Github Banner](https://drive.google.com/drive/u/0/folders/1JEOeucQlMi0BBjMJjpK6t-G0NifaZgeN)
-### Hi there 👋, I'm [Sylvain Boudacher!](https://github.com/SylvainBoudacher/SylvainBoudacher/blob/main/bannerTestGithub.png)
+![Github Banner](https://github.com/SylvainBoudacher/SylvainBoudacher/blob/main/bannerGithub.png)
+### Hi there 👋, I'm [Sylvain Boudacher!](https://github.com/SylvainBoudacher/)
+
+I'm a student in ESGI 🎓 from Paris 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor 👨🏻‍💻. I'm currently into Web Development 🕸️ and working to be graduate 🤓.
+
+Joined Github **4** years ago.
+
+[![](https://gitwar.herokuapp.com/badge?username=SylvainBoudacher&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+
+### Talking about Personal Stuffs:
 
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 🛠 &nbsp; I’m currently working with  React, Symfony and NodeJS, ect.
+- 📫 &nbsp; How to reach me:  <a href="https://linkedin.com/in/jaydeepyadav"><img alt="Linkedin" width="80px" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-
-### How to reach me:
-- 📫 &nbsp; How to reach me: https://www.linkedin.com/in/sylvain-boudacher/.
 <!--
 **SylvainBoudacher/SylvainBoudacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Language and Tools:
+## Language and Tools:
 
 <img align="left" alt="PHP" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="left" alt="Javascrit" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -35,13 +41,12 @@ Here are some ideas to get you started:
 <img  alt="Photoshop" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
 
 
-<details>
-  <summary><b>⚡ Github Stats</b></summary>
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SylvainBoudacher&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+## Github Stats
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylvainBoudacher&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=SylvainBoudacher&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylvainBoudacher&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
 
 <details>	
   <br />
