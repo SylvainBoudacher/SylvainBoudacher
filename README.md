@@ -36,7 +36,7 @@ Joined Github **4** years ago.
 
 ## ⚙️ Things I use to get stuff don
  
- - OS:</b> MacOS Monterey
+ - OS:</b> MacOS Ventura
  - Laptop: </b> Macbook Pro M1 Pro 2021
  - Browser: </b> Brave and Firefox for the front dev tools
  - Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)
