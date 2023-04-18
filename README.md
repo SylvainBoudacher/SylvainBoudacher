@@ -38,7 +38,7 @@ Joined Github **5** years ago.
  
  - OS:</b> MacOS Ventura
  - Laptop: </b> Macbook Pro M1 Pro 2021
- - Browser: </b> Brave and Firefox for the front dev tools
+ - Browser: </b> Brave , ARC and Firefox for the front dev tools
  - Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)
  - Code Editor:</b> VSCode - The best editor out there.
  - To Stay Updated:</b> Daily.dev, Medium and Twitter.
