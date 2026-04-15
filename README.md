@@ -1,44 +1,52 @@
 ![Github Banner](https://github.com/SylvainBoudacher/SylvainBoudacher/blob/main/readmebackground.png)
 
-### Hi there 👋, I'm [Sylvain Boudacher!](https://github.com/SylvainBoudacher/)
+# Hey, I'm Sylvain 👋
 
-I recently graduated with a degree in Web Engineering from ESGI 🎓 in Paris 🏛. As a dedicated learner, I am enthusiastic about exploring diverse technologies and domains 💡. My passion lies in utilizing innovative technologies to tackle real-world challenges ✨. Additionally, I enjoy sharing my knowledge and mentoring aspiring developers 👨🏻‍💻. My current focus is on Web Development 🕸️
+Front-end engineer based in Paris 🇫🇷, passionate about crafting polished web experiences and scalable interfaces.  
+I love turning complex problems into clean, intuitive products — and I'm always curious about what's next in tech.
 
-Joined Github **5** years ago.
+---
 
-[![](https://gitwar.herokuapp.com/badge?username=SylvainBoudacher&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+## 🧑‍💻 About me
 
-### Talking about Personal Stuffs:
+- 💼 &nbsp; Front-end developer specialized in **React / Next.js** and modern JS ecosystems
+- 🎓 &nbsp; Web Engineering graduate from **ESGI Paris**
+- 🌱 &nbsp; Currently exploring the intersection of **product thinking** and engineering
+- 🤝 &nbsp; Open to interesting collaborations and new opportunities
+- 📍 &nbsp; Based in **Paris, Île-de-France**
 
-- 🚀 &nbsp; Currently mastering Full Stack Development.
-- 🛠 &nbsp; Proficient in React / Next.js, Nest.js ,NodeJS and more.
-- 📫 &nbsp; Connect with me on <a href="https://www.linkedin.com/in/sylvain-boudacher/"><img alt="Linkedin" width="80px" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvain-boudacher/)
 
-## Language and Tools:
+---
 
-<img align="left" alt="Javascrit" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="Next js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-<img align="left" alt="Nest js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
-<img align="left" alt="Symfony" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg" />
-<img align="left" alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img align="left" alt="NodeJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+## 🛠 Tech Stack
+
+<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img align="left" alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+<img align="left" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" alt="NestJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
 <img align="left" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 <img align="left" alt="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="Blender" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" />
-<img  alt="Photoshop" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+<img alt="VSCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-## Github Stats
+---
 
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=SylvainBoudacher&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+## 📊 GitHub Stats
 
-<img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylvainBoudacher&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=SylvainBoudacher&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylvainBoudacher&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
 
-## ⚙️ Things I use to get stuff don
+---
 
-- Laptop: </b> Macbook Pro M1 Pro 2021
-- Browser: </b> Brave , ARC and Firefox for the front dev tools
-- Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)
-- Code Editor:</b> VSCode - The best editor out there :)
-- To Stay Updated:</b> Daily.dev, Medium ,X ,Youtube , ect.
+## ⚙️ My Setup
+
+| | |
+|---|---|
+| 💻 Machine | MacBook Pro M1 Pro 2021 |
+| 🌐 Browser | Arc · Brave · Firefox DevTools |
+| ⌨️ Terminal | Zsh + Oh My Zsh (Powerlevel10k) |
+| 🧑‍💻 Editor | VSCode |
+| 📰 Stay updated | daily.dev · Medium · X · YouTube |
