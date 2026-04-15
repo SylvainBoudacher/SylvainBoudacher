@@ -48,5 +48,5 @@ I love turning complex problems into clean, intuitive products — and I'm alway
 | 💻 Machine      | MacBook Pro M1 Pro 2021          |
 | 🌐 Browser      | Arc · Brave · Firefox DevTools   |
 | ⌨️ Terminal     | Zsh + Oh My Zsh (Powerlevel10k)  |
-| 🧑‍💻 Editor       | VSCode                           |
+| 🧑‍💻 Editor       | Cursor / Claude Code             |
 | 📰 Stay updated | daily.dev · Medium · X · YouTube |
