@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/SylvainBoudacher/SylvainBoudacher/blob/main/bannerGithub.png)
+![Github Banner](https://github.com/SylvainBoudacher/SylvainBoudacher/blob/main/readmebackground.png)
 
 ### Hi there 👋, I'm [Sylvain Boudacher!](https://github.com/SylvainBoudacher/)
 
