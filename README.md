@@ -36,10 +36,7 @@ I love turning complex problems into clean, intuitive products — and I'm alway
 
 ## 📊 GitHub Stats
 
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=SylvainBoudacher&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=SylvainBoudacher&show_icons=true&theme=radical" />
-
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=SylvainBoudacher&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylvainBoudacher&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
 
 ---
