@@ -24,7 +24,7 @@ I love turning complex problems into clean, intuitive products — and I'm alway
 <img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+<img align="left" alt="Next.js" width="40px" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="NestJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
 <img align="left" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
@@ -43,10 +43,10 @@ I love turning complex problems into clean, intuitive products — and I'm alway
 
 ## ⚙️ My Setup
 
-| | |
-|---|---|
-| 💻 Machine | MacBook Pro M1 Pro 2021 |
-| 🌐 Browser | Arc · Brave · Firefox DevTools |
-| ⌨️ Terminal | Zsh + Oh My Zsh (Powerlevel10k) |
-| 🧑‍💻 Editor | VSCode |
+|                 |                                  |
+| --------------- | -------------------------------- |
+| 💻 Machine      | MacBook Pro M1 Pro 2021          |
+| 🌐 Browser      | Arc · Brave · Firefox DevTools   |
+| ⌨️ Terminal     | Zsh + Oh My Zsh (Powerlevel10k)  |
+| 🧑‍💻 Editor       | VSCode                           |
 | 📰 Stay updated | daily.dev · Medium · X · YouTube |
