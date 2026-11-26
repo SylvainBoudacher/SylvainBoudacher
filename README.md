@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SylvainBoudacher/SylvainBoudacher/blob/main/readmebackground.png?raw=true" alt="Sylvain Boudacher — Full-Stack Engineer" width="100%" />
+  <img src="https://github.com/SylvainBoudacher/SylvainBoudacher/blob/main/bg_purple.webp?raw=true" alt="Sylvain Boudacher — Full-Stack Engineer" width="100%" />
 </p>
 
 <h1 align="center">Sylvain Boudacher</h1>
