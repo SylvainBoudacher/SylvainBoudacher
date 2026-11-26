@@ -1,52 +1,92 @@
-![Github Banner](https://github.com/SylvainBoudacher/SylvainBoudacher/blob/main/readmebackground.png)
+<p align="center">
+  <img src="https://github.com/SylvainBoudacher/SylvainBoudacher/blob/main/readmebackground.png?raw=true" alt="Sylvain Boudacher — Full-Stack Engineer" width="100%" />
+</p>
 
-# Hey, I'm Sylvain 👋
+<h1 align="center">Sylvain Boudacher</h1>
 
-Front-end engineer based in Paris 🇫🇷, passionate about crafting polished web experiences and scalable interfaces.  
-I love turning complex problems into clean, intuitive products — and I'm always curious about what's next in tech.
+<p align="center">
+  <strong>Full-Stack Engineer · TypeScript end to end</strong><br/>
+  React · Next.js · Node.js · NestJS · Hono · Prisma
+</p>
 
----
-
-## 🧑‍💻 About me
-
-- 💼 &nbsp; Front-end developer specialized in **React / Next.js** and modern JS ecosystems
-- 🎓 &nbsp; Web Engineering graduate from **ESGI Paris**
-- 🌱 &nbsp; Currently exploring the intersection of **product thinking** and engineering
-- 🤝 &nbsp; Open to interesting collaborations and new opportunities
-- 📍 &nbsp; Based in **Paris, Île-de-France**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sylvain-boudacher/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sylvain-boudacher/"><img src="https://img.shields.io/badge/LinkedIn-Sylvain%20Boudacher-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Paris%2C%20France-1f2937?style=flat-square&logo=googlemaps&logoColor=white" alt="Paris, France" />
+  <img src="https://img.shields.io/badge/Open%20to-opportunities-16a34a?style=flat-square" alt="Open to opportunities" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## About
 
-<img align="left" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
-<img align="left" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" alt="NestJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
-<img align="left" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
-<img align="left" alt="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img alt="VSCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+I'm a full-stack engineer based in Paris who builds products from the database schema to the last pixel.
+I care about **type-safe architectures**, **clean domain logic** and **interfaces that feel effortless**, and I like owning a feature end to end: data model, API, UI, tests and delivery.
+
+- **Full-stack TypeScript**: React / Next.js on the front, Node.js / NestJS / Hono on the back, with shared types and validation across the stack
+- **Product mindset**: I turn complex problems into simple, intuitive tools and work closely with design (Figma)
+- **Quality first**: test-driven development, strict typing, monorepos and reproducible environments with Docker
+- **AI-native workflow**: I build with Claude Code and the Model Context Protocol (MCP) to connect apps to AI assistants
+- **Background**: Web Engineering graduate from **ESGI Paris**
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=SylvainBoudacher&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylvainBoudacher&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" alt="Languages" />
+</p>
+
+**Front-end**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="Front-end" />
+</p>
+
+<sub>shadcn/ui · TanStack Query · Motion · Zod</sub>
+
+**Back-end & Data**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,bun,prisma,postgres,sqlite&theme=dark" alt="Back-end and data" />
+</p>
+
+<sub>Hono · REST · type-safe RPC · Model Context Protocol (MCP)</sub>
+
+**Tooling & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,figma&theme=dark" alt="Tooling" />
+</p>
 
 ---
 
-## ⚙️ My Setup
+## Featured Project
 
-|                 |                                  |
-| --------------- | -------------------------------- |
-| 💻 Machine      | MacBook Pro M1 Pro 2021          |
-| 🌐 Browser      | Arc · Brave · Firefox DevTools   |
-| ⌨️ Terminal     | Zsh + Oh My Zsh (Powerlevel10k)  |
-| 🧑‍💻 Editor       | Cursor / Claude Code             |
-| 📰 Stay updated | daily.dev · Medium · X · YouTube |
+### Ascent Planner
+
+A local-first personal planning app: projects broken into ordered objectives, a daily planner, a timeline and an MCP server so an AI assistant can read and plan tasks.
+
+| Layer | Stack |
+| --- | --- |
+| Monorepo | Bun workspaces · shared `core` package (Zod schemas + pure business rules) |
+| API | Hono · Prisma 7 · SQLite (libSQL) · end-to-end types with the Hono RPC client |
+| Front-end | React 19 · Vite · Tailwind 4 · shadcn/ui · TanStack Query · Motion |
+| AI | MCP server exposing the same services as the REST API |
+| Quality | TDD on every layer · strict TypeScript · oxlint |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SylvainBoudacher&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&bg_color=0d1117" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SylvainBoudacher&exclude_repo=KNN-Image-Classification&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0d1117" alt="Top languages" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Let's build something great together. Reach out on <a href="https://www.linkedin.com/in/sylvain-boudacher/">LinkedIn</a>.</sub>
+</p>
